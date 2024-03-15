@@ -1,0 +1,6 @@
+ms=input("nhập mã sách:   ")
+ts=input("nhập tên sách:   ")
+tg=input("nhập tác giả:   ")
+nxb=input("nhập năm xuất bản:   ")
+sl=input('nhập số lượng:    ')
+print ("Thư viện ĐHKTKTCN có {} sách {} với mã số {}.Cuốn sách của tác giác {} được xuất bản vào năm {}".format(sl,ts,ms,tg,nxb))

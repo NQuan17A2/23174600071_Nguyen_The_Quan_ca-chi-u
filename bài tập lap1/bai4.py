@@ -1,0 +1,5 @@
+chieucao=float(input("nhập chiều cao của hình chóp:   "))
+do_dai_day=float(input("nhập độ dài dáy của hình chóp:   "))
+stp=((3**0.5)/4)*(do_dai_day**2)+(do_dai_day**2)
+s=(1/3)*chieucao*(do_dai_day**2)
+print ("diện tích toàn phần của hình chóp đều là {} \n thể tích của hình chóp đều là {}".format(round(stp,2),round(s,2)))

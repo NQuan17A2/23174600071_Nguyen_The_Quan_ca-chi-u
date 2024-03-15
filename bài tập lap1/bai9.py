@@ -1,0 +1,8 @@
+mx,my=map(float,input('nhập tọa độ đỉnh M (x,y):  ').split(','))
+nx,ny=map(float,input('nhập tọa độ đỉnh N (x,y):  ').split(','))
+px,py=map(float,input('nhập tọa độ đỉnh P (x,y):  ').split(','))
+qx,qy=map(float,input('nhập tọa độ đỉnh Q (x,y):  ').split(','))
+print ("trung điểm của đoạn MN là {},{}".format((mx+nx)/2,(my+ny)/2))
+print ("trung điểm của đoạn NP là {},{}".format((nx+px)/2,(ny+py)/2))
+print ("trung điểm của đoạn PQ là {},{}".format((px+qx)/2,(py+qy)/2))
+print ("trung điểm của đoạn QM là {},{}".format((qx+mx)/2,(qy+my)/2))
