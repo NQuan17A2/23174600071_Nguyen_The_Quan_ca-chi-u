@@ -1,0 +1,34 @@
+File ảnh khi chụp em cần phải chạy xong chương trình, chứ chưa chạy xong thì chụp làm gì em?
+- Bài 1: đúng
+Điểm bài tập: 1.0 
+
+- Bài 2: file ảnh chạy code còn chưa nhập các thông tin thì chụp làm gì em? 
+         Số lượng sách nên để định dạng là số nguyên
+Điểm bài tập: 1.0
+
+- Bài 3: lại chụp ảnh khi chưa chạy code
+         đề bài yêu cầu tính số tiền sau 5 năm, em phải lấy lãi suất mũ 5, trong bài em sử dụng phép nhân
+Điểm bài tập: 0.75
+
+- Bài 4: thiếu diện tích xung quanh, công thức tính diện tích toàn phần chưa đúng
+Điểm bài tập: 0.75
+
+- Bài 5: công suất có đơn vị là W, tuy nhiên giá tiền điện là 5000 đồng/kwh. Bởi vậy em cần đổi đơn vị từ W sang kW
+Điểm bài tập: 0.75
+
+- Bài 6: các phần tính toán sao em không làm trước, lại để hết trong lệnh print, như vậy rất rối mắt người nhìn
+Điểm bài tập: 1.0
+
+- Bài 7: đúng
+Điểm bài tập: 1.0 
+
+- Bài 8: đúng
+Điểm bài tập: 1.0 
+
+- Bài 9: đúng
+Điểm bài tập: 1.0 
+
+- Bài 10: sử dụng function, vượt ngoài kiến thức trong lab 1
+Điểm bài tập: 0.5
+
+Tổng điểm bài tập lab 1: 8.75
