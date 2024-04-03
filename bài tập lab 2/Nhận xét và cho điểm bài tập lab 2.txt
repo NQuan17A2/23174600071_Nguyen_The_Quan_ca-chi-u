@@ -1,3 +1,6 @@
+Code giống y hệt code của bạn Nguyễn Đình Trọng. Điểm bài tập của lab 2 sẽ lấy điểm cao nhất : 2 
+
+
 - Bài 1: thiếu trường hợp phương trình có vô số nghiệm
 Điểm bài tập: 0.75
 
@@ -28,4 +31,4 @@
 - Bài 10: đúng
 Điểm bài tập: 1.0 
 
-Tổng điểm bài tập lab 2: 9.25 : 2 (nộp bài tập muộn) = 4.625
+Tổng điểm bài tập lab 2: 9.25 : 2 - 2 (nộp bài tập muộn) = 2.625
