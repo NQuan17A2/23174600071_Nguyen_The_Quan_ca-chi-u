@@ -1,0 +1,18 @@
+- Bài 1: 
+toàn bộ code sử dụng kiến thức vượt ngoài lab 1,2,3
+Điểm bài tập: 1.0
+
+- Bài 2: 
+toàn bộ code sử dụng kiến thức vượt ngoài lab 1,2,3
+Điểm bài tập: 1.0
+
+- Bài 3:
+toàn bộ code sử dụng kiến thức vượt ngoài lab 1,2,3
+Điểm bài tập: 2.5
+
+- Bài 4:
+a) đúng
+b) đúng
+Điểm bài tập: 1.0
+
+Tổng điểm bài tập lab 3: 5.5
